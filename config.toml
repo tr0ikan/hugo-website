@@ -1,4 +1,0 @@
-baseURL = 'https://troikan.net/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "anubis"
